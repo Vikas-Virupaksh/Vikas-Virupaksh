@@ -1,5 +1,13 @@
 # Hi there, I'm Vikas Virupaksh 👋 
 
+Industry recognised Business Leader for driving Enterprise growth through AI, Cloud, and Emerging Technologies
+a renowned sales leader and techno-commercial strategist, recognized for shaping technology-driven growth across India and global markets. A trusted advisor to CXOs, helping organizations harness AI, Cloud, Knowledge Graphs, Digital Twins, Intelligent Automation, and emerging technologies to drive large-scale digital transformation.
+
+Had successfully led initiatives that integrates advanced analytics, cloud-native platforms, connected data ecosystems, and automation frameworks, enabling businesses to accelerate decision-making, optimize business process & operations plus to unlock new growth opportunities.
+
+Known for bridging business vision with technology execution, Vikas translates complex innovations into measurable business impact from operational efficiency and cost optimization to resilience and future-ready growth. He is widely regarded as a thought leader and trusted partner for organizations seeking to build digital enterprises that are agile, intelligent, and forward-looking.!
+
+
 ### ☁️ About Me
 - 💼 Currently driving **Cloud and AI Practices** as Global Head at **Adamas Tech Consulting** (Bengaluru, India).
 - 💡 Passionate about enterprise cloud architecture, modern data platforms (Data Lakehouses, AWS), FinOps, RDF , Knowledge graphs , MCPs and scalable Generative AI integrations.
