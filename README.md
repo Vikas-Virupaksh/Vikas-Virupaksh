@@ -12,7 +12,7 @@
 - **Cloud Platforms:** Amazon Web Services (AWS), Cloud Modernization & Architecture
 - **Data & Analytics:** Data Lakehouse, Amazon Redshift, Apache Iceberg, AWS Glue, Database Migrations & Archiving
 - **AI & Emerging Tech:** Generative AI Solutions, Agentic AI & AI Agents , Knowledge graphs , RDF , AI-Driven Development Platforms
-- **Business & Leadership:** Cloud Practice Scaling, Enterprise Sales, Strategy & FinOps
+- **Business & Leadership:** Cloud & AI Practice Scaling, Enterprise & Responsible AI , Consulting & Strategy
 
 ---
 
